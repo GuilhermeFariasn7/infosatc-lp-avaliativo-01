@@ -1,4 +1,4 @@
-#esse é o 29...
+#Questão 29 - fazer a média de quatro notar escolhidas pelo usuário
 print('\033[4;33mDigite 4 notas\033[m ')
 n1 = float(input("Digite a primeira nota: "))
 n2 = float(input("Digite a segunda nota: "))
