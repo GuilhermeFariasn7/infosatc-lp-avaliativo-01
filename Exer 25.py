@@ -1,4 +1,4 @@
-A = float(input("Digite o valor em litros: "))
-M = (A*4048.58)
+M = float(input("Digite o valor em M²: "))
+H = (M*0.0001)
 
-print("O valor em jardas será: {}".format(A))
+print("O valor em hectares será: {}".format(H))
